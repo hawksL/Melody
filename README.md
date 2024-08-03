@@ -12,7 +12,7 @@
 
     #1, Download the mod from this github repository. To download the Mod simply click the Melody Mod 1.8.9.jar file above once and then the download icon, which says download raw.
 
-    DIRECT LINK: 
+    DIRECT LINK: [Download](https://github.com/hawksL/Melody/raw/main/Melody%20Mod%20(1.8.9).jar)
 
     #2, Locate the mod, the mod should be downloaded into your Downloads folder as a .jar file.
     #3, Open your .minecraft folder, on Windows simply press the Windows Key + R to open Run, from there type %appdata% and then press enter, when in this folder go to the .minecraft folder and then Mods.
