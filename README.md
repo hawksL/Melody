@@ -11,13 +11,11 @@
 **Installation guide, for Forge version 1.8.9:**
 
     #1, Download the mod from this github repository. To download the Mod simply click the Melody Mod 1.8.9.jar file above once and then the download icon, which says download raw.
-
-    DIRECT LINK: [Download](https://github.com/hawksL/Melody/raw/main/Melody%20Mod%20(1.8.9).jar)
-
     #2, Locate the mod, the mod should be downloaded into your Downloads folder as a .jar file.
     #3, Open your .minecraft folder, on Windows simply press the Windows Key + R to open Run, from there type %appdata% and then press enter, when in this folder go to the .minecraft folder and then Mods.
     #4, Once in this Mods folder, drag the jar file from your Downloads folder into this folder, then close this folder and simply Start Minecraft.
     #5, Once ingame, simply press the Grave (~) key to open the GUI!
+> DIRECT LINK: [Download](https://github.com/hawksL/Melody/raw/main/Melody%20Mod%20(1.8.9).jar)
 
 > **Forge 1.8.9 Installer (To use the Mod): https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html**
 
