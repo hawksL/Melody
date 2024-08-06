@@ -63,4 +63,4 @@
 
     Q: Is this vanilla-like?
 
-    A: Yes! Most mods that attempts to do Melody for you sends packets which is not possible by a regular client and may get you banned, but this Melody Mod is completely vanilla! No risk involved.
+    A: Yes! Most mods that attempts to do Melody for you sends packets which is not possible by a regular client and may get you banned, but this Melody Mod is completely vanilla! No risk involved!
